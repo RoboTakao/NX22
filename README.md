@@ -6,7 +6,7 @@ Summary
 http://blog.robotakao.jp/blog-entry-484.html
 
 [Cotroll with Dabble]  
-&emsp;M5Stamp Pico sketch : NX22.ino  
+&emsp;M5Stamp Pico sketch : NX22_pico.ino  
 
 [Connection]  
 ![image](NX22_connection.jpg)
