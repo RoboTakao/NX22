@@ -3,7 +3,7 @@
 ![image](NX22_01.jpeg)
 
 Summary
-http://blog.robotakao.jp/blog-entry-484.html
+http://robotakao.blog.fc2.com/blog-entry-484.html
 
 [Cotroll with Dabble]  
 &emsp;M5Stamp Pico sketch : NX22_pico.ino  
